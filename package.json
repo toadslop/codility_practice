@@ -1,0 +1,17 @@
+{
+  "name": "codility",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task1.js",
+  "scripts": {
+    "test": "npx jasmine './spec/**/*Spec.js'"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.16.0",
+    "eslint-plugin-import": "^2.26.0",
+    "jasmine": "^4.1.0"
+  }
+}
